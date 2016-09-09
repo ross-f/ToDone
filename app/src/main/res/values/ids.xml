@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="greetingPlaceholder" type="id" />
+    <item name="byPriority" type="id" />
+    <item name="fragment_item" type="id" />
+    <item name="rlcontent" type="id" />
+</resources>
